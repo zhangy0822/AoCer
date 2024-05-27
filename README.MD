@@ -6,6 +6,18 @@ Our source code is built on top of the [Ask&Confirm](https://github.com/Cuthbert
 We organize all data used in the experiments in the same manner as [Ask&Confirm](https://github.com/CuthbertCai/Ask-Confirm) in PyTorch.
 
 
+## Acknowledgment
+This repo was borrowed from:  
+[DrillDown][1]  
+[Ask&Confirm][2]  
+[CVSE][3]  
+[openai-baselines][4]
+
+[1]:https://github.com/uvavision/DrillDown
+[2]:https://github.com/CuthbertCai/Ask-Confirm
+[3]:https://github.com/BruceW91/CVSE
+
+
 Please use the following bib entry to cite this paper if you are using any resources from the repo.
 ```
 @article{zhang2023consensus,
