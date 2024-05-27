@@ -7,11 +7,7 @@ We organize all data used in the experiments in the same manner as [Ask&Confirm]
 
 
 ## Acknowledgment
-This repo was borrowed from:  
-[DrillDown][1]  
-[Ask&Confirm][2]  
-[CVSE][3]  
-[openai-baselines][4]
+This repo was borrowed from:  [DrillDown][1], [Ask&Confirm][2], [CVSE][3].
 
 [1]:https://github.com/uvavision/DrillDown
 [2]:https://github.com/CuthbertCai/Ask-Confirm
