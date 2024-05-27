@@ -1,6 +1,7 @@
-# Consensus Knowledge Exploitation for Partial Query Based Image Retrieval
+# Consensus Knowledge Exploitation for Partial Query Based Image Retrieval (TCSVT 2023)
 
-Our source code of AoCer accepted by TCSVT will be released as soon as possible. It is built on top of the [Ask&Confirm](https://github.com/CuthbertCai/Ask-Confirm) in PyTorch. 
+Our source code is built on top of the [Ask&Confirm](https://github.com/CuthbertCai/Ask-Confirm) in PyTorch.
+
 ## Data
 We organize all data used in the experiments in the same manner as [Ask&Confirm](https://github.com/CuthbertCai/Ask-Confirm) in PyTorch.
 
